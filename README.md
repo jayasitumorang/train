@@ -1,0 +1,5 @@
+# train
+
+ NPM INSTALL
+ 
+ NPM RUN START
